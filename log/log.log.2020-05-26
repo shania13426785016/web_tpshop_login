@@ -1,0 +1,6 @@
+2020-05-26 00:52:25,472 20 [root] [test_login.py(test01_page_ht:42)] - 反向断言方法
+2020-05-26 00:52:27,449 20 [root] [test_login.py(test01_page_ht:42)] - 反向断言方法
+2020-05-26 00:52:33,581 20 [root] [test_login.py(test01_page_ht:36)] - 正向断言方法
+2020-05-26 01:00:39,863 20 [root] [test_login.py(test01_page_ht:42)] - 反向断言方法
+2020-05-26 01:00:41,639 20 [root] [test_login.py(test01_page_ht:42)] - 反向断言方法
+2020-05-26 01:00:47,474 20 [root] [test_login.py(test01_page_ht:36)] - 正向断言方法

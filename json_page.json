@@ -1,0 +1,23 @@
+{
+  "test_username_not": {
+    "username": "admini",
+    "password": "123456",
+    "code": "8888",
+    "expect": "不正确",
+    "is_succ": false
+  },
+  "test_password_error": {
+    "username": "admin",
+    "password": "12345678",
+    "code": "8888",
+    "expect": "不正确",
+    "is_succ": false
+  },
+  "test_login_succ": {
+    "username": "admin",
+    "password": "123456",
+    "code": "8888",
+    "expect": "TPshop2.0",
+    "is_succ": true
+  }
+}
